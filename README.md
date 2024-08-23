@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sweety3214
+- 👋 Hi, I’m @Sweety
 - 👀 I’m interested in TESTING
 - 🌱 I’m currently learning SOFTWARE TESTING
 - 💞️I’m looking to collaborate on open-source projects related to Java programming, automation testing with Selenium WebDriver, and any innovative software development ideas that push the boundaries of technology
